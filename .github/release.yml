@@ -7,6 +7,9 @@ changelog:
       labels:
         - bug
         - fixes
+    - title: Documentation
+      labels:
+        - documentation
   exclude:
     labels:
       - dependencies
